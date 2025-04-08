@@ -1,0 +1,3 @@
+*.ipynb linguist-language=Text
+*.ipynb linguist-vendored
+*.ipynb diff=none
